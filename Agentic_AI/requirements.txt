@@ -1,0 +1,15 @@
+langgraph>=0.2.34
+pydantic>=2.7.0
+streamlit>=1.33.0
+python-dotenv>=1.0.1
+openai>=1.37.0
+google-generativeai>=0.7.2
+tenacity>=8.2.3
+# langchain-google-genai
+# dotenv
+# sqlalchemy
+# langgraph-checkpoint-sqlite
+# langchain_community
+# graphviz
+
+# AIzaSyCCpcha6TCqBV-Bi4x9cEPD154E-73qhW8

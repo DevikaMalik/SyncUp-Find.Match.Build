@@ -1,0 +1,67 @@
+[
+  {
+    "id": "u1",
+    "name": "Aarav",
+    "skills": [
+      "python",
+      "ml",
+      "pandas"
+    ],
+    "interests": [
+      "ai",
+      "healthcare"
+    ]
+  },
+  {
+    "id": "u2",
+    "name": "Isha",
+    "skills": [
+      "react",
+      "ui",
+      "tailwind"
+    ],
+    "interests": [
+      "frontend",
+      "design"
+    ]
+  },
+  {
+    "id": "u3",
+    "name": "Kabir",
+    "skills": [
+      "node",
+      "express",
+      "mongodb"
+    ],
+    "interests": [
+      "backend",
+      "apis"
+    ]
+  },
+  {
+    "id": "u4",
+    "name": "Diya",
+    "skills": [
+      "java",
+      "spring",
+      "databases"
+    ],
+    "interests": [
+      "systems",
+      "dsa"
+    ]
+  },
+  {
+    "id": "u5",
+    "name": "Rohit",
+    "skills": [
+      "python",
+      "opencv",
+      "dl"
+    ],
+    "interests": [
+      "vision",
+      "sports"
+    ]
+  }
+]

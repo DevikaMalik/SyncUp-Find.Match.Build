@@ -1,0 +1,42 @@
+[
+  {
+    "id": "m1",
+    "name": "Dr. Meera",
+    "expertise": [
+      "ai",
+      "healthcare",
+      "ml"
+    ],
+    "bio": "AI in clinical decision support."
+  },
+  {
+    "id": "m2",
+    "name": "Sanjay",
+    "expertise": [
+      "frontend",
+      "react",
+      "ux"
+    ],
+    "bio": "Design systems & React."
+  },
+  {
+    "id": "m3",
+    "name": "Anita",
+    "expertise": [
+      "backend",
+      "node",
+      "architectures"
+    ],
+    "bio": "Scalable APIs."
+  },
+  {
+    "id": "m4",
+    "name": "Vikram",
+    "expertise": [
+      "vision",
+      "sports",
+      "dl"
+    ],
+    "bio": "Computer vision for sports analytics."
+  }
+]
